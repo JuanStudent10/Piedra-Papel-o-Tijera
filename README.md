@@ -1,11 +1,15 @@
 Bienvenido al juego de Piedra, Papel o Tijera! Este es un proyecto desarrollado en Python utilizando la biblioteca Pygame. El juego permite al usuario jugar contra la computadora en una interfaz gráfica amigable.
 
 Requisitos: 
-Para jugar el juego se necesitan los siguientes componentes, Python y Pygame. 
+Para jugar el juego se necesitan los siguientes componentes: Python y Pygame. 
 
 Instalación: 
-Instalar Python: Si aún no tienes Python instalado, se lo puede descargar desde python.org.
-Instalar Pygame: Abre una terminal o línea de comandos y ejecuta el siguiente comando para instalar Pygame: "pip install pygame"
+
+Instalar Python: 
+Si aún no tienes Python instalado, se lo puede descargar desde python.org.
+
+Instalar Pygame: 
+Abre una terminal o línea de comandos y ejecuta el siguiente comando para instalar Pygame: "pip install pygame"
 
 Ejecución del Juego:
 Ejecutar el archivo del juego: Ejecuta el archivo del juego ".py" que se encuentra en la carpeta. 
