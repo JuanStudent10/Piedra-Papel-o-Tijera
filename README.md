@@ -1,1 +1,0 @@
-Se adjunta el código correspondiente al juego de piedra, papel o tijera. Dónde el usuario se enfrenta a la computadora pudiendo jugar reiteradas veces contra la misma hasta que él lo desee, se añaden contadores para saber las partidas ganadas y perdidas, cómo también se hace uso de la biblioteca random en Python para generar una respuesta aleatoria de parte de la computadora. 
