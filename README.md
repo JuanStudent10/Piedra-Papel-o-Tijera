@@ -22,4 +22,4 @@ El resultado del juego se mostrará en la pantalla, indicando si ganaste, perdis
 Puedes ver el conteo de partidas ganadas y perdidas en la parte superior izquierda de la pantalla.
 Para salir del juego, haz clic en el botón "Salir" en la parte superior derecha de la ventana.
 
-¡Gracias por jugar y disfrutar del proyecto de Piedra, Papel o Tijera!
+Gracias por jugar y disfrutar del proyecto de Piedra, Papel o Tijera!
