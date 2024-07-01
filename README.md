@@ -1,25 +1,12 @@
-Bienvenido al juego de Piedra, Papel o Tijera! Este es un proyecto desarrollado en Python utilizando la biblioteca Pygame. El juego permite al usuario jugar contra la computadora en una interfaz gráfica amigable.
+Repositorio correspondiente al juego de piedra, papel o tijera. Dónde el usuario se enfrenta a la computadora pudiendo jugar reiteradas veces contra la misma hasta que él lo desee, se añaden contadores para saber las partidas ganadas y perdidas, cómo también se hace uso de la biblioteca random en Python para generar una respuesta aleatoria de parte de la computadora. 
 
-Requisitos: 
-Para jugar el juego se necesitan los siguientes componentes: Python y Pygame. 
-
-Instalación: 
-
-Instalar Python: 
-Si aún no tienes Python instalado, se lo puede descargar desde python.org.
-
-Instalar Pygame: 
-Abre una terminal o línea de comandos y ejecuta el siguiente comando para instalar Pygame: "pip install pygame"
-
-Ejecución del Juego:
-Ejecutar el archivo del juego: Ejecuta el archivo del juego ".py" que se encuentra en la carpeta. 
-
-Cómo Jugar:
-Al iniciar el juego, verás una interfaz gráfica con las opciones "Piedra", "Papel" y "Tijera".
-Haz clic en una de las opciones para hacer tu elección.
-La computadora hará su elección automáticamente.
-El resultado del juego se mostrará en la pantalla, indicando si ganaste, perdiste o hubo un empate.
-Puedes ver el conteo de partidas ganadas y perdidas en la parte superior izquierda de la pantalla.
-Para salir del juego, haz clic en el botón "Salir" en la parte superior derecha de la ventana.
-
-Gracias por jugar y disfrutar del proyecto de Piedra, Papel o Tijera!
+Funcionalidades del Juego: 
+Importación del módulo random: Se importa el módulo random para generar elecciones aleatorias para la computadora.
+Variables de la partida: Ganadas y perdidas se utilizan para llevar el conteo de las partidas ganadas y perdidas por el jugador.
+Bucle del juego: Un bucle while permite que el juego continúe hasta que el jugador decida salir.
+Entrada del jugador: Se solicita al jugador que elija entre "piedra", "papel", "tijera" o "salir" para terminar el juego. Si el jugador elige "salir" el juego finaliza. 
+Validación de la entrada: Si la entrada no es válida, se muestra un mensaje de error y se pide una nueva entrada.
+Elección aleatoria de la computadora: La computadora elige aleatoriamente entre "piedra", "papel" o "tijera" utilizando random.choice.
+Determinación del resultado: Se compara la elección del jugador con la de la computadora para determinar el resultado (ganar, perder o empate).
+Mostrar resultados: Después de cada ronda, se muestran las partidas ganadas y perdidas hasta el momento.
+Mensaje final: Cuando el jugador decide salir, se muestra un mensaje final con el total de partidas ganadas y perdidas.
