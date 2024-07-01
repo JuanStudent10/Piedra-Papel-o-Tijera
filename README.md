@@ -19,3 +19,6 @@ Determinación del resultado: Se compara la elección del jugador con la de la c
 Mostrar resultados: Después de cada ronda, se muestran las partidas ganadas y perdidas hasta el momento.
 
 Mensaje final: Cuando el jugador decide salir, se muestra un mensaje final con el total de partidas ganadas y perdidas.
+
+Gracias por jugar y disfrutar del proyecto de Piedra, Papel o Tijera!
+
