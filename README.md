@@ -1,4 +1,4 @@
-Repositorio correspondiente al juego de piedra, papel o tijera. Dónde el usuario se enfrenta a la computadora pudiendo jugar reiteradas veces contra la misma hasta que él lo desee, se añaden contadores para saber las partidas ganadas y perdidas, cómo también se hace uso de la biblioteca random en Python para generar una respuesta aleatoria de parte de la computadora. 
+Repositorio correspondiente al juego de piedra, papel o tijera. Dónde el usuario se enfrenta a la computadora pudiendo jugar reiteradas veces contra la misma hasta que él lo desee, se añaden contadores para saber las partidas ganadas y perdidas, cómo también se hace uso de la biblioteca random en Python para generar una respuesta aleatoria de parte de la computadora. Se adjunta un archivo ".rar" con las instrucciones para poder ejecutar la interfaz gráfica desarrollada para el juego, mediante la librería "Pygame".
 
 Funcionalidades del Juego: 
 
